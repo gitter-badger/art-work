@@ -1,3 +1,8 @@
+.. image::
+    ./facebook/cover-1.png
+    :alt: Recurse Space
+    :target: https://recurse.space
+
 ========
 Art Work
 ========
