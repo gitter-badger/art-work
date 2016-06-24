@@ -154,3 +154,8 @@ Disclaimer
 
 If you find some resources protected by Copyright in this repository, please
 let us know to take the coresponding actions.
+
+
+.. image:: https://badges.gitter.im/recursespace/art-work.svg
+   :alt: Join the chat at https://gitter.im/recursespace/art-work
+   :target: https://gitter.im/recursespace/art-work?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
