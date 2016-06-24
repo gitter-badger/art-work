@@ -1,19 +1,14 @@
 .. image::
-    ./facebook/cover-1.png
-    :alt: Recurse Space
-    :target: https://recurse.space
-
-========
-Art Work
-========
-
-Art Work Collection used in some Recurse Space projects.
-
-.. image::
-    https://img.shields.io/badge/License-Creative%20Commons%20Zero%20v1.0%20Universal-green.svg
+    https://img.shields.io/badge/License-Creative%20Commons%20Zero%20v1.0%20Universal-green.svg?style=flat-square
     :alt: Creative Commons
     :target: https://github.com/recursespace/art-work
 
+.. image::
+    ./header.png
+    :alt: Recurse Space
+    :target: https://recurse.space/projects/art-work
+
+Art Work Collection used in some Recurse Space projects.
 
 Table of Contents
 =================
@@ -157,5 +152,5 @@ v1.0 Universal license.
 Disclaimer
 ==========
 
-If you found some resources protected by Copyright in this repository, please
+If you find some resources protected by Copyright in this repository, please
 let us know to take the coresponding actions.
